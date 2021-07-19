@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=aName\ aSecondName
+comment0.target=Person(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Person\r\n
+comment1.params=second
+comment1.target=Person(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getInitials()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ a\ public\ method\ getName()\ that\ returns\ the\ full\ name\ of\ the\ person,\r\n\ formed\ by\ concatenating\ the\ person's\ firstName\ and\ secondName\r\n\ separated\ by\ a\ space\r\n
+comment4.params=
+comment4.target=void\ printReverse()
+comment4.text=\r\n\ a\ public\ method\ printReverse()\ that\ returns\ no\ value,\ but\ prints\r\n\ to\ the\ standard\ output\ the\ characters\ in\ the\ full\ name\ of\ the\ person\ in\r\n\ reverse\ order.\ For\ example,\ if\ the\ person\ has\ the\ full\ name\r\n\ "Alice\ Jones",\ the\ method\ will\ print\ "senoJ\ ecilA"\ on\ one\r\n\ line.\ \r\n
+comment5.params=other
+comment5.target=boolean\ equals(Person)
+comment5.text=\r\n\ Write\ a\ public\ instance\ method\ with\ the\ signature\r\n\ equals(Person)\r\n\ for\ the\ class\ Person\ that\ returns\ true\ if\ the\ receiver\ has\ the\ same\r\n\ firstName\ and\ secondName\ as\ the\ argument.\r\n
+numComments=6

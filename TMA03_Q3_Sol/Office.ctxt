@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Office()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Office\r\n
+comment1.params=
+comment1.target=void\ addEmployee()
+comment1.text=\r\n\ Q3\ b\ 2\r\n\ Method\ to\ add\ some\ test\ data.\r\n
+comment2.params=
+comment2.target=void\ printMap()
+comment2.text=\r\n\ Q3\ c\r\n\ Method\ iterate\ each\ office\ and\ prints\ out\ the\ employees\ hired\ at\ each\ location.\ \r\n\ It\ takes\ no\ argument\ and\ returns\ no\ value.\r\n
+comment3.params=anOffice
+comment3.target=void\ printMapValue(java.lang.String)
+comment3.text=\r\n\ Q3\ c\r\n\ Checks\ if\ the\ office\ already\ exists\ if\ it\ does\ it\r\n\ prints\ out\ who\ works\ there,\ or\ informs\ that\ the\ office\ does\ not\ \r\n\ exist.\r\n
+comment4.params=officeName\ newEmployee
+comment4.target=void\ addMapEntry(java.lang.String,\ java.lang.String)
+comment4.text=\r\n\ Q3\ c\ \r\n\ After\ taking\ office\ and\ a\ new\ employee's\ name\ arguments,\ method\ either\r\n\ replaces\ employess\ in\ existing\ office\ or\ creates\ brand\ new\ office\ \r\n\ with\ the\ new\ staff.\r\n
+comment5.params=localisation
+comment5.target=boolean\ deleteEntry(java.lang.String)
+comment5.text=\r\n\ Q3\ d\r\n\ Method\ checks\ if\ selected\ office\ exists,\ if\ it\ doesn't\ it\ returns\ false,\ \r\n\ if\ it\ does\ office\ is\ being\ removed\ and\ true\ is\ being\ returned.\r\n
+comment6.params=office\ name
+comment6.target=void\ addToValueAtKey(java.lang.String,\ java.lang.String)
+comment6.text=\ Q3\ d\r\n\ Method\ adds\ new\ employee\ to\ the\ specific\ office.\r\n
+comment7.params=office\ value
+comment7.target=void\ deleteFromValueAtKey(java.lang.String,\ java.lang.String)
+comment7.text=\ Q3\ d\r\n\ Method\ deletes\ specific\ employees\ working\ at\ the\ selected\ office.\r\n
+numComments=8

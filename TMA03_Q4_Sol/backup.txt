@@ -1,0 +1,20 @@
+Person person1 = new Person("Garry", "Duncan");
+Person person2 = new Person("Garry", "Duncan");
+Person nosecond = new Person("Swiatkowska");
+garry.getInitials();
+nosecond.getInitials();
+garry.getName();
+garry.printReverse();
+nosecond.printReverse();
+
+Person friend; //1
+String first; //2
+String second; //3
+String temp; //4
+first = new String("Alice"); //5
+second = "Jones"; //6
+friend = new Person(first, second); //7
+temp = friend.getInitials(); //8
+friend.printReverse(); //9
+
+person1.equals(nosecond);

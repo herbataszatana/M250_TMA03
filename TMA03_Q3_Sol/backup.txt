@@ -1,0 +1,32 @@
+// to create new map
+Office branches = new Office();
+
+//Q3 b 2
+branches.addEmployee();
+
+//Q3 c
+branches.printMap();
+
+//Q3 c    
+   //when the key matches
+   branches.printMapValue("Scranton"); 
+   
+   //when key doesn't match
+   branches.printMapValue("scranton"); 
+   
+//Q3 c
+   
+   //Non existing key
+   branches.addMapEntry("New york", "Lucile Bluth");
+
+   //Existing key
+   branches.addMapEntry("New york", "Lucile 2");
+
+//Q3 d deleteEntry(String localisation)
+branches.deleteEntry("Philadelphia");
+
+//Q3 d addToValueAtKey(String office, String name) 
+branches.addToValueAtKey("Scranton", "Lucile Bluth");
+
+//Q3 d deleteFromValueAtKey(String office, String value)
+branches.deleteFromValueAtKey("Scranton", "Pam Beesly");

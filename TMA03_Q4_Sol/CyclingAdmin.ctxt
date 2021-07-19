@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CyclingAdmin()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CyclingAdmin\r\n
+comment1.params=
+comment1.target=void\ clear()
+comment1.text=\r\n\ Clears\ the\ cyclists\ list.\r\n
+comment2.params=
+comment2.target=void\ readInCyclists()
+comment2.text=\r\n\ Qb(ii)\r\n\ Method\ prompts\ user\ to\ select\ text\ file\ with\ the\ cyclist\ data,\ reads\ it\ \r\n\ and\ create\ an\ instance\ of\ cyclist\ for\ each\ cyclist\ mentioned\ in\ a\ text\ file.\r\n\ Method\ also\ translates\ age\ to\ race\ category.\ \r\n
+comment3.params=
+comment3.target=void\ rideRace()
+comment3.text=\r\n\ Q4b(iii)\r\n\ For\ each\ cyclist\ method\ generates\ random\ times.\ \r\n\ Times\ have\ to\ be\ between\ MIN_RACE_TIME\ and\ (MIN_RACE_TIME\ *\ 2)\r\n
+comment4.params=
+comment4.target=void\ displayResults()
+comment4.text=\r\n\ Q4d\r\n\ Method\ displays\ all\ race\ results\ starting\ from\ the\ fastest\ to\ the\ slowest.\r\n
+numComments=5
